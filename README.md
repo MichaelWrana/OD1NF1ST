@@ -1,6 +1,9 @@
 # OD1NF1ST
 1553-based Avionic Platform Intrusion Detection 
 
+<img width="1798" alt="image" src="https://user-images.githubusercontent.com/8474647/141875466-435a039b-0d23-4e84-90fb-d9ac299fa2ea.png">
+
+
 
 ### Source listing
 
@@ -68,12 +71,4 @@ export SYS_LOG_EVENT=True && python -m odf
 # SYS_LOG_EVENT value will be mapped to config object in config.py
 export SYS_LOG_EVENT=False && python -m odf.mfs
 ```
-
-
-### Contribution Guideline
-
-📐 [Project Plans & TODOs](https://github.com/L1NNA/OD1NF1ST/projects)
-
-📐 [Emoji policy](http://greena13.github.io/blog/2016/08/19/emojis-are-the-solution-to-useless-commit-messages/) for commit, issues, and PRs. 
-
 
