@@ -1,5 +1,5 @@
 # OD1NF1ST
-1553-based Avionic Platform Intrusion Detection 
+MIL-STD-1553 Avionic Platform Intrusion Detection System
 
 <img width="1798" alt="image" src="https://user-images.githubusercontent.com/8474647/141875466-435a039b-0d23-4e84-90fb-d9ac299fa2ea.png">
 
