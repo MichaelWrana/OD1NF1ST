@@ -8,7 +8,7 @@ from odf import *
 import numpy as np
 import tensorflow as tf
 import keras
-from tensorflow.keras.layers import (Conv1D, Dense, Input, Embedding, LSTM, Bidirectional)
+from tensorflow.keras.layers import (GlobalMaxPooling1D, Multiply, Conv1D, Dense, Input, Embedding, LSTM, Bidirectional)
 
 
 # In[2]:
