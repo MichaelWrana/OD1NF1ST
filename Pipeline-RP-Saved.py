@@ -32,7 +32,7 @@ with open('saved_model/z.npy', 'rb') as f:
 def passthrough(y_true, y_pred):
     return tf.reduce_mean(y_pred)
 
-def build(topk=25):
+def build(topk=5):
     input_dim = 256 # maximum integer 
     padding_char = 256
     embedding_size = 8 
